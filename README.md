@@ -8,7 +8,7 @@ This project is based on SQL fundamentals and focuses on managing and analyzing 
 
 ## Files
 - `internship Assignment1 Data analysis with sql.sql`  
-  The main SQL script containing table creation (if any), data manipulation, and analysis queries. Note: the filename contains spaces.
+ 
 
 ## Tasks Performed
 The following tasks are completed in this project:
