@@ -3,11 +3,12 @@
 Repository: krishnamarwari60-ctrl/ASSIGNMENT-1
 
 ## Objective
-Description
+Description :
 This project is based on SQL fundamentals and focuses on managing and analyzing student performance data. A Students database is created to store student details such as name, gender, age, grade, and subject-wise scores. Various SQL queries are used to perform data analysis and updates.
 
 ## Files
- internship Assignment1 Data analysis with sql.sql
+ internship Assignment1 Data analysis with sql
+   
  
 
 ## Tasks Performed
