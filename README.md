@@ -29,10 +29,4 @@ This project helps in understanding SQL operations such as data insertion, selec
 
 
 ## Author
-krishna
-
-
-
-
-#
-If you want me to commit this README.md to the repository, or rename/add helper scripts, tell me and I will push the change for you.
+Krishna 
